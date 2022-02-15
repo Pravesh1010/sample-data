@@ -1,0 +1,36 @@
+{
+"movies" : [
+  {
+    "id": "100",
+    "poster": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/01/26/891223-thalapthy-vijay-vijay-sethupathi-master-third-look.jpg",
+    "name": "Master",
+    "genre": "Action",
+    "rating": 7.8,
+    "summary": "John Durairaj, an alcoholic professor, gets enrolled to teach at a juvenile facility, unbeknownst to him. He soon clashes with a ruthless gangster, who uses the children as scapegoats for his crimes."
+  },
+  {
+    "id": "101",
+    "poster": "https://igimages.gumlet.io/tamil/home/fe-ovotvkaagrvh.jpg?w=376&dpr=2.6",
+    "name": "Maanadu",
+    "genre": "Action",
+    "rating": 8.7,
+    "summary": "On the day of a public conference by the state's Chief Minister, his bodyguard and a police officer become stuck in a time loop."
+  },
+  {
+    "id": "102",
+    "poster": "https://miro.medium.com/max/548/1*Y8vXN1mJeEHyXWJtFICjiQ.jpeg",
+    "name": "The Pursuit Of Happyness",
+    "genre": "Drama",
+    "rating": 8,
+    "summary": "Tired of Chris's professional failures, his wife decides to separate, leaving him financially broke with an unpaid internship in a brokerage firm and his son's custody to deal with."
+  },
+  {
+    "id": "103",
+    "poster": "https://cdn.shopify.com/s/files/1/1416/8662/products/titanic_1997_original_film_art_dd01271c-371c-4562-b9c2-0d3203301a66_1200x.jpg?v=1638474841",
+    "name": "Titanic",
+    "genre": "Romance",
+    "rating": 7.8,
+    "summary": "Seventeen-year-old Rose hails from an aristocratic family and is set to be married. When she boards the Titanic, she meets Jack Dawson, an artist, and falls in love with him."
+  }
+]
+}
