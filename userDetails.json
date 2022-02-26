@@ -1,0 +1,30 @@
+[
+  {
+    "id": "100",
+    "name": "Pravesh",
+    "gender": "Male",
+    "age": "25",
+    "city": "Arni"
+  },
+  {
+    "id": "101",
+    "name": "Dhoni",
+    "gender": "Male",
+    "age": "40",
+    "city": "Ranchi"
+  },
+  {
+    "id": "102",
+    "name": "Nadal",
+    "gender": "Male",
+    "age": "34",
+    "city": "Madrid"
+  },
+  {
+    "id": "103",
+    "name": "Roger Federer",
+    "gender": "Male",
+    "age": "37",
+    "city": "swiss"
+  }
+]

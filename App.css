@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.user-container{
+  width: 300px;
+  padding: 1px;
+}
+
+.user-list{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.name{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.add-user-form{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 10px;
+  gap: 10px;
+}
